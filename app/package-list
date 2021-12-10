@@ -1108,7 +1108,6 @@ $dokka.location:ph.gov.dost.asti.gulai.journal.views/Journals/showSortMenu/#andr
 $dokka.location:ph.gov.dost.asti.gulai.journal.views/Journals/sortOrder/#/PointingToDeclaration/app/ph.gov.dost.asti.gulai.journal.views/-journals/sort-order.html
 $dokka.location:ph.gov.dost.asti.gulai.journal.views/Journals/textNothing/#/PointingToDeclaration/app/ph.gov.dost.asti.gulai.journal.views/-journals/text-nothing.html
 $dokka.location:ph.gov.dost.asti.gulai.log_in////PointingToDeclaration/app/ph.gov.dost.asti.gulai.log_in/index.html
-$dokka.location:ph.gov.dost.asti.gulai.log_in//bitmapToByteArray/#android.graphics.Bitmap?/PointingToDeclaration/app/ph.gov.dost.asti.gulai.log_in/bitmap-to-byte-array.html
 $dokka.location:ph.gov.dost.asti.gulai.log_in//clearLoggedIn/#android.content.Context/PointingToDeclaration/app/ph.gov.dost.asti.gulai.log_in/clear-logged-in.html
 $dokka.location:ph.gov.dost.asti.gulai.log_in//generateID/#/PointingToDeclaration/app/ph.gov.dost.asti.gulai.log_in/generate-i-d.html
 $dokka.location:ph.gov.dost.asti.gulai.log_in//getLoggedInInfo/#android.content.Context/PointingToDeclaration/app/ph.gov.dost.asti.gulai.log_in/get-logged-in-info.html
@@ -1117,7 +1116,6 @@ $dokka.location:ph.gov.dost.asti.gulai.log_in//loggedInEmailKey/#/PointingToDecl
 $dokka.location:ph.gov.dost.asti.gulai.log_in//loggedInFileName/#/PointingToDeclaration/app/ph.gov.dost.asti.gulai.log_in/logged-in-file-name.html
 $dokka.location:ph.gov.dost.asti.gulai.log_in//setLoggedIn/#android.content.Context#kotlin.String/PointingToDeclaration/app/ph.gov.dost.asti.gulai.log_in/set-logged-in.html
 $dokka.location:ph.gov.dost.asti.gulai.log_in//setLoggedInSharedPref/#android.content.Context#kotlin.String?/PointingToDeclaration/app/ph.gov.dost.asti.gulai.log_in/set-logged-in-shared-pref.html
-$dokka.location:ph.gov.dost.asti.gulai.log_in//uriToBitmap/#android.net.Uri?#android.content.Context/PointingToDeclaration/app/ph.gov.dost.asti.gulai.log_in/uri-to-bitmap.html
 $dokka.location:ph.gov.dost.asti.gulai.log_in/DummyPlantform///PointingToDeclaration/app/ph.gov.dost.asti.gulai.log_in/-dummy-plantform/index.html
 $dokka.location:ph.gov.dost.asti.gulai.log_in/DummyPlantform/DummyPlantform/#kotlin.String#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/app/ph.gov.dost.asti.gulai.log_in/-dummy-plantform/-dummy-plantform.html
 $dokka.location:ph.gov.dost.asti.gulai.log_in/DummyPlantform/id/#/PointingToDeclaration/app/ph.gov.dost.asti.gulai.log_in/-dummy-plantform/id.html
